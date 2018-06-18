@@ -1,0 +1,197 @@
+{
+  "configs": [
+    {
+      "server": "45.124.67.199",
+      "server_port": 2220,
+      "password": "yizhihongxing",
+      "method": "rc4-md5",
+      "remarks": "香港1",
+      "auth": false
+    },
+    {
+      "server": "45.124.67.197",
+      "server_port": 2220,
+      "password": "yizhihongxing",
+      "method": "rc4-md5",
+      "remarks": "香港2",
+      "auth": false
+    },
+    {
+      "server": "202.5.18.146",
+      "server_port": 2220,
+      "password": "yizhihongxing",
+      "method": "rc4-md5",
+      "remarks": "美国1",
+      "auth": false
+    },
+    {
+      "server": "202.5.18.145",
+      "server_port": 2220,
+      "password": "yizhihongxing",
+      "method": "rc4-md5",
+      "remarks": "美国2",
+      "auth": false
+    },
+    {
+      "server": "202.5.18.144",
+      "server_port": 2220,
+      "password": "yizhihongxing",
+      "method": "rc4-md5",
+      "remarks": "美国3",
+      "auth": false
+    },
+    {
+      "server": "45.32.16.108",
+      "server_port": 2220,
+      "password": "yizhihongxing",
+      "method": "rc4-md5",
+      "remarks": "日本",
+      "auth": false
+    },
+    {
+      "server": "116.251.218.242",
+      "server_port": 2220,
+      "password": "yizhihongxing",
+      "method": "rc4-md5",
+      "remarks": "新加坡1",
+      "auth": false
+    },
+    {
+      "server": "116.251.218.243",
+      "server_port": 2220,
+      "password": "yizhihongxing",
+      "method": "rc4-md5",
+      "remarks": "新加坡2",
+      "auth": false
+    },
+    {
+      "server": "103.214.68.31",
+      "server_port": 2220,
+      "password": "yizhihongxing",
+      "method": "rc4-md5",
+      "remarks": "韩国1",
+      "auth": false
+    },
+    {
+      "server": "103.214.68.96",
+      "server_port": 2220,
+      "password": "yizhihongxing",
+      "method": "rc4-md5",
+      "remarks": "韩国2",
+      "auth": false
+    },
+    {
+      "server": "a.freess.fun",
+      "server_port": 12398,
+      "password": "ODg0MzU5YzA2",
+      "method": "rc4-md5",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "b.freess.fun",
+      "server_port": 19537,
+      "password": "ZjNiZjI5YTk4",
+      "method": "rc4-md5",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "c.freess.fun",
+      "server_port": 9418,
+      "password": "MjBhNDljNmRh",
+      "method": "rc4-md5",
+      "remarks": "",
+      "auth": false
+    },
+    {
+      "server": "64.137.246.61",
+      "server_port": 1702,
+      "password": "doub.io/sszhfx/*doub.loan/sszhfx/*1702",
+      "method": "chacha20",
+      "remarks": "free01",
+      "auth": false
+    },
+    {
+      "server": "45.62.249.213",
+      "server_port": 6357,
+      "password": "doub.io/sszhfx/*doub.loan/sszhfx/*6357",
+      "method": "chacha20",
+      "remarks": "free02",
+      "auth": false
+    },
+    {
+      "server": "45.62.249.213",
+      "server_port": 6357,
+      "password": "doub.io/sszhfx/*doub.loan/sszhfx/*6357",
+      "method": "chacha20",
+      "remarks": "free03",
+      "auth": false
+    },
+    {
+      "server": "64.137.220.119",
+      "server_port": 6357,
+      "password": "doub.io/sszhfx/*doub.loan/sszhfx/*6357",
+      "method": "chacha20",
+      "remarks": "free04",
+      "auth": false
+    },
+    {
+      "server": "62.113.196.47",
+      "server_port": 40010,
+      "password": "vpnnest!@#123d",
+      "method": "aes-256-cfb",
+      "remarks": "德国001",
+      "auth": false
+    },
+    {
+      "server": "67.21.81.240",
+      "server_port": 8388,
+      "password": "password",
+      "method": "aes-256-cfb",
+      "remarks": "美国001",
+      "auth": false
+    }
+  ],
+  "strategy": null,
+  "index": 5,
+  "global": true,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": true,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "fontName": "Consolas",
+    "fontSize": 8.0,
+    "bgColor": "black",
+    "textColor": "white",
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "width": 600,
+    "height": 400,
+    "top": 368,
+    "left": 766,
+    "maximized": true
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "ChangeToPac": "",
+    "ChangeToGlobal": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}
